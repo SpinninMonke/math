@@ -16,7 +16,6 @@ Batta Chase JJBA intro version
 
 @Scene 3
 
-
 Translate to english:
 
 Många vuxna, t.o.m lärare, kommer att säga: "Det är viktigt för att Mathematik låter mänskighetens kunskap att fortsätta förbättras." Jag själv håller med, men gillar inte svaret.
