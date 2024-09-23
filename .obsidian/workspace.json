@@ -128,6 +128,18 @@
                 "file": "Matematik/Mathematics Video/7-11 Matematik Script.md"
               }
             }
+          },
+          {
+            "id": "06b5d25766b4f475",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ]
       }
@@ -138,6 +150,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
